@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-11T20:02:44 IST" name="Suite" finished-at="2023-09-11T20:02:50 IST" duration-ms="6490">
+    <groups>
+    </groups>
+    <test started-at="2023-09-11T20:02:44 IST" name="Test" finished-at="2023-09-11T20:02:50 IST" duration-ms="6490">
+      <class name="org.Testing.TestCases.TC3_Put">
+        <test-method signature="postTestCaseJSON()[pri:0, instance:org.Testing.TestCases.TC3_Put@16d04d3d]" started-at="2023-09-11T20:02:49 IST" name="postTestCaseJSON" finished-at="2023-09-11T20:02:50 IST" duration-ms="679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTestCaseJSON -->
+      </class> <!-- org.Testing.TestCases.TC3_Put -->
+      <class name="org.Testing.TestCases.TC2_Post">
+        <test-method signature="postTestCase()[pri:0, instance:org.Testing.TestCases.TC2_Post@595b007d]" started-at="2023-09-11T20:02:44 IST" name="postTestCase" finished-at="2023-09-11T20:02:47 IST" duration-ms="3658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTestCase -->
+        <test-method signature="postTestCaseJSON()[pri:0, instance:org.Testing.TestCases.TC2_Post@595b007d]" started-at="2023-09-11T20:02:47 IST" name="postTestCaseJSON" finished-at="2023-09-11T20:02:48 IST" duration-ms="906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTestCaseJSON -->
+      </class> <!-- org.Testing.TestCases.TC2_Post -->
+      <class name="org.Testing.TestCases.TC1_Get">
+        <test-method signature="getTestCase()[pri:0, instance:org.Testing.TestCases.TC1_Get@36bc55de]" started-at="2023-09-11T20:02:48 IST" name="getTestCase" finished-at="2023-09-11T20:02:49 IST" duration-ms="454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestCase -->
+      </class> <!-- org.Testing.TestCases.TC1_Get -->
+      <class name="org.Testing.TestCases.TC4_Delete">
+        <test-method signature="postTestCaseJSON()[pri:0, instance:org.Testing.TestCases.TC4_Delete@564fabc8]" started-at="2023-09-11T20:02:49 IST" name="postTestCaseJSON" finished-at="2023-09-11T20:02:49 IST" duration-ms="703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTestCaseJSON -->
+      </class> <!-- org.Testing.TestCases.TC4_Delete -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
